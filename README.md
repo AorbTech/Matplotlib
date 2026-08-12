@@ -14,4 +14,8 @@
 3.3 Customizing Line Plot <br>
 3.4 Line Plot with Different Styles <br>
 
-
+### 02. Bar Chart
+3.1 What is Bar Chart? <br>
+3.2 Bar Chart<br>
+3.3 Customizing Bar Charts <br>
+3.4 Bar Charts with Different Styles <br>
